@@ -15,16 +15,13 @@
 Keyboardview Component component made with react native and Expo.
 
 ## 🖼 GIFs
+
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/52014318/146863320-1e50a878-aae9-48e9-a390-5995f3370adc.gif' width='375' />
 <img src='https://user-images.githubusercontent.com/52014318/146863843-e8485f7f-edfb-47d9-a5d2-67ae90a7cf88.gif' width='375' />
 </p>
 
-## ✨ Technologies!![ezgif com-gif-maker]()
-
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://docs.expo.dev/)
+## ✨ Technologies
 
 This project was developed with the following technologies:
 
