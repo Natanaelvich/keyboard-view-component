@@ -16,7 +16,8 @@ Keyboardview Component component made with react native and Expo.
 
 ## 🖼 GIFs
 <p align='center'>
-<img src='' width='375' />
+
+<img src='https://user-images.githubusercontent.com/52014318/146863320-1e50a878-aae9-48e9-a390-5995f3370adc.gif' width='375' />
 </p>
 
 ## ✨ Technologies!
